@@ -2,10 +2,10 @@
     "keys": [
         {
             "kty": "EC",
-            "kid": "OXJws0vj3BSRyGKCgJvNp0iF5gN1llbR",
+            "kid": "usRS61aGGCPoNY3u0N3blLjYom0tL43O",
             "crv": "P-256",
-            "x": "YSuhUGw7T0J9pdywCuZMsocPG9bHS5-HfPc_pGeAn0I",
-            "y": "9ng2nzbp55YiyoFdbuLvjKupqRaBIoPnXL_di3FuVEM"
+            "x": "6hJf9OksBXRLxiBehy-4fhI-Ed3QQW3fvXzBwHe1Sug",
+            "y": "2EEzUVi67V66n7FJNXIlxYNVWIkJm27Ze_OWn1gbLoI"
         }
     ]
 }
